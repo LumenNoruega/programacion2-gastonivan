@@ -11,6 +11,7 @@ def main():
         lado_a = float(input("Ingresa la longitud del primer lado: "))
         lado_b = float(input("Ingresa la longitud del segundo lado: "))
         lado_c = float(input("Ingresa la longitud del tercer lado: "))
+        print(HEHEHEHEHE)
         
         if lado_a <= 0 or lado_b <= 0 or lado_c <= 0:
             print("Los lados deben tener longitudes positivas.")
