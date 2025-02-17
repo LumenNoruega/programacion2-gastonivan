@@ -6,6 +6,8 @@ def tipo_triangulo(a, b, c):
     else:
         return "Escaleno"
 
+
+
 def main():
     try:
         lado_a = float(input("Ingresa la longitud del primer lado: "))
@@ -24,4 +26,7 @@ if __name__ == "__main__":
     main()
     print()
     print()
+
+
+
     print()
